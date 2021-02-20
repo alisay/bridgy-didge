@@ -1,3 +1,12 @@
+fetch API data
+Display data
+Have the “add to favourites” button, add a link/data to the “Favourites” list ( recommend using a <ul></ul> element and adding each as a  <li></li>  element)
+The “Next” button should display/fetch new data
+Notes:
+the favourites list should persist between “next” button actions
+Don’t worry about looks/css so much, functionality is the main focus
+Try using Atomic Design principles, StyledComponents and for the brave try do it in 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
